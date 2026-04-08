@@ -1,0 +1,5 @@
+{
+  "name": "FLUXBOX - Controle de Almoxarifado",
+  "description": "Sistema inteligente para gestão de ferramentas e insumos de manutenção de motores elétricos.",
+  "requestFramePermissions": []
+}
